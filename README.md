@@ -60,4 +60,6 @@ Semester 2 Materials - https://drive.google.com/drive/folders/1yFQ8GWoBXlnVv9cjg
 - Machine Learning - https://drive.google.com/drive/folders/1qvS6QF9mEKa2OQTgTtzkz695BGr4mWj3?usp=sharing
   
 - CNS - https://drive.google.com/drive/folders/1y20oyCKRRCwUMe_5UtNjyuedXZqYJtnQ?usp=sharing
+  
+- Questions Papers of 6th and 7th Subjects: https://drive.google.com/file/d/1kjcTZk6dTY9ByYQDFYORQVayQF8mrR4W/view?usp=sharing
 
