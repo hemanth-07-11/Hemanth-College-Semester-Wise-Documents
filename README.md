@@ -48,10 +48,16 @@ Software engg - question bank - https://drive.google.com/file/d/1lhBGWwWjyfTP___
 ## Semester 6 & 7
 
 - Img processing - https://drive.google.com/drive/folders/1jbTZ1ntG8-acYClA5OzuywW212dxlaXl?usp=sharing
+  
 - DL - https://drive.google.com/drive/folders/1aCSyq4wkSg3MpEBPFQdzur5mDBixq2_O?usp=sharing
+  
 - IoT - https://drive.google.com/drive/folders/1dgMyzX5m_cWHTyJpxXv4OkmMEgHPyKq1?usp=sharing
-- Distributed system - https://drive.google.com/drive/folders/1NA3ST5X295ZKIW59pN3I7RNRAK5zx1ol?usp=sharing, 
-- Big Data - https://drive.google.com/drive/folders/1YPNKNlIra-ZaDqzsqX6RzNLSF7T17P5L?usp=sharing, 
+  
+- Distributed system - https://drive.google.com/drive/folders/1NA3ST5X295ZKIW59pN3I7RNRAK5zx1ol?usp=sharing
+  
+- Big Data - https://drive.google.com/drive/folders/1YPNKNlIra-ZaDqzsqX6RzNLSF7T17P5L?usp=sharing
+  
 - Machine Learning - https://drive.google.com/drive/folders/1qvS6QF9mEKa2OQTgTtzkz695BGr4mWj3?usp=sharing
+  
 - CNS - https://drive.google.com/drive/folders/1y20oyCKRRCwUMe_5UtNjyuedXZqYJtnQ?usp=sharing
 
