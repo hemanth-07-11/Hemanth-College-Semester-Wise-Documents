@@ -36,14 +36,14 @@ Semester 2 Materials - https://drive.google.com/drive/folders/1yFQ8GWoBXlnVv9cjg
 - OOAD - https://drive.google.com/drive/folders/17-0i2ee_77o4rv7-LF38RIFuzkGoaf5V?usp=sharing
 
 - Networks - https://drive.google.com/drive/folders/1kOQfQiOi8i3WbYGFYMHB-q4f9vSnlqnQ?usp=sharing
-Networks Labs programs - https://github.com/hemanth-07-11/Networks-Labs-Sem-5
+- Networks Labs programs - https://github.com/hemanth-07-11/Networks-Labs-Sem-5
 
 - Compiler Design - https://drive.google.com/drive/folders/1CFai7L90Rtr1mCOWzisj5_NM8YTaREP1?usp=sharing
 
 - Java - https://drive.google.com/drive/folders/1wQY1sZunEPF-2SdunYco2cCvYcJ71Vzm?usp=sharing
 
 - Software Engg - https://drive.google.com/drive/folders/13zWPaDLG9oO1D31Hgk3XPyHUFL446Ly0?usp=sharing
-Software engg - question bank - https://drive.google.com/file/d/1lhBGWwWjyfTP___hiIE1NBHI7i03UYg7/view?usp=sharing
+- Software engg - question bank - https://drive.google.com/file/d/1lhBGWwWjyfTP___hiIE1NBHI7i03UYg7/view?usp=sharing
 
 ## Semester 6 & 7
 
