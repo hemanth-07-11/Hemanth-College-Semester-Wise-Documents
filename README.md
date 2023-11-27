@@ -49,17 +49,25 @@ Semester 2 Materials - https://drive.google.com/drive/folders/1yFQ8GWoBXlnVv9cjg
 
 - Img processing - https://drive.google.com/drive/folders/1jbTZ1ntG8-acYClA5OzuywW212dxlaXl?usp=sharing
   
-- DL - https://drive.google.com/drive/folders/1aCSyq4wkSg3MpEBPFQdzur5mDBixq2_O?usp=sharing
+- Deep Learning- https://drive.google.com/drive/folders/1aCSyq4wkSg3MpEBPFQdzur5mDBixq2_O?usp=sharing
   
 - IoT - https://drive.google.com/drive/folders/1dgMyzX5m_cWHTyJpxXv4OkmMEgHPyKq1?usp=sharing
   
 - Distributed system - https://drive.google.com/drive/folders/1NA3ST5X295ZKIW59pN3I7RNRAK5zx1ol?usp=sharing
+
+- Cloud Computing - https://drive.google.com/drive/folders/1RiZ-7hcqEsZttXjt_5_LL7OxpciYpS4S?usp=sharing
   
 - Big Data - https://drive.google.com/drive/folders/1YPNKNlIra-ZaDqzsqX6RzNLSF7T17P5L?usp=sharing
   
 - Machine Learning - https://drive.google.com/drive/folders/1qvS6QF9mEKa2OQTgTtzkz695BGr4mWj3?usp=sharing
   
-- CNS - https://drive.google.com/drive/folders/1y20oyCKRRCwUMe_5UtNjyuedXZqYJtnQ?usp=sharing
+- Cryptography and network sec - https://drive.google.com/drive/folders/1y20oyCKRRCwUMe_5UtNjyuedXZqYJtnQ?usp=sharing
+
+- Software Proj Management - https://drive.google.com/drive/folders/1QEkYCkPzOagQjq19phgotzcfPDuxRc9-?usp=sharing
+  
+- Social Network analysis - https://drive.google.com/drive/folders/1_k9WO3LpDrZCRT7LLOnnAUMvW_5V63LU?usp=sharing
+
+- UNIX internals - https://drive.google.com/drive/folders/14blYvf3bChLaFMjxCZ9NAm4ABBZojK05?usp=sharing
   
 - Questions Papers of 6th and 7th Subjects: https://drive.google.com/file/d/1kjcTZk6dTY9ByYQDFYORQVayQF8mrR4W/view?usp=sharing
 
